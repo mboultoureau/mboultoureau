@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello 👋
 
+Hello! My name is Mathis and I am currently a computer science student. I'm passionate about web and software development and Capture The Flag.
+
+
+Let's keep in touch through the web 🌎:
+- 💻 Discover my creations on my [website](https://mboultoureau.com/)
+- 💼 Let's communicate via [Linkedin](https://www.linkedin.com/in/mboultoureau/)
+- 🔒 Observe my cybersecurity progress via [RootMe](https://www.root-me.org/mboultoureau-275653) and my team's progress via [CTFtime](https://ctftime.org/team/119925)
 <!--
 **mboultoureau/mboultoureau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
