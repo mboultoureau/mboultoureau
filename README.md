@@ -1,7 +1,7 @@
 # Mathis Boultoureau
 Hello, I'm Mathis Boultoureau and I'm at ENSSAT, a software engineering school in France.
 
-💬 We can get in touch by email [contact@mboultoureau.com](mailto:contact@mboultoureau.com) or on [LinkedIn](https://linkedin.com/in/mboultoureau).
+💬 We can get in touch by email [boultoureaumathis@gmail.com](mailto:boultoureaumathis@gmail.com) or on [LinkedIn](https://linkedin.com/in/mboultoureau).
 
 ## 💻 Tech Stack:
 - **Algorithms**: [LeetCode](https://leetcode.com/mboultoureau/), C, C++, Rust, Python, Assembly
