@@ -13,7 +13,7 @@ Hello, I'm Mathis Boultoureau and I'm at ENSSAT, a software engineering school i
 - **Multimedia:** WebGL, OpenGL, WebGPU, OpenAL
 - **Network:** ACL, firewall, VPN, VLAN, [5G decoding](https://github.com/mboultoureau/wireless-network/blob/main/main.ipynb)
 - **Systems:** Linux, Docker, Bash, Awk, Sed
-- **Tools:** Vim, Visual Studio Code
+- **Tools:** Vim, Visual Studio Code, Git
 - **Video game:** Unreal Engine 5
 - **Web:** Vue.js, React, Next.js, Symfony, SpringBoot
 
