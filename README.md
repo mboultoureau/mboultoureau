@@ -6,7 +6,7 @@ Hello, I'm Mathis Boultoureau and I'm at ENSSAT, a software engineering school i
 ## 💻 Tech Stack:
 - **Algorithms**: [LeetCode](https://leetcode.com/mboultoureau/), C, C++, Rust, Python, Assembly
 - **Artificial intelligence:** PyTorch, Tensorflow, Keras, Pandas
-- **Cybersecurity:** [CTFTime](https://ctftime.org/user/81131), [RootMe](https://www.root-me.org/mboultoureau-275653)
+- **Cybersecurity:** Forensic investigation, pentesting, secure software development, cybersecurity management, advanced network security, [CTFTime](https://ctftime.org/user/81131), [RootMe](https://www.root-me.org/mboultoureau-275653)
 - **Databases:** PostgreSQL, MariaDB, Firebase, Redis, MongoDB
 - **Mathematics:** mathematics of multimedia, analysis, algebra and geometry, graphs, [cryptography](https://github.com/mboultoureau/simulations-numeriques/blob/main/code/chiffrement-rsa.ipynb), probability and statistics
 - **Mobile:** Kotlin, Flutter, React Native
