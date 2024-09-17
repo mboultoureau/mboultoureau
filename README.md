@@ -6,7 +6,7 @@ Hello, I am a passionate French software engineering student with over a decade 
 
 ## 💻 Most recent projets and achievements
 - HorroVR: virtual reality horror game for Meta Quest 2 made with Unreal Engine 5 and C++
-- OntoLearn Annotator: open-source crowdsourcing platform compatible with active learning
+- OntoLearn Annotator: open-source crowdsourcing platform compatible with active learning with Next.js
 - Roland Garros: clone of the Roland Garros website based on SpringBoot, Quasar, Vue.js, Docker, Traefik and OpenStack
 - Participation in several [CTFs](https://ctftime.org/user/81131), including [one in person](http://blog.enssat.fr/2023/11/break-code-brest-la-3e-place-pour-3.html) and training on [RootMe](https://www.root-me.org/mboultoureau-275653)
 - 400 challenges solved on [LeetCode](https://leetcode.com/u/mboultoureau/) in Python and C++
